@@ -1,0 +1,10 @@
+PODS:
+  - MHDummyLib (1.0.0)
+
+DEPENDENCIES:
+  - MHDummyLib (= 1.0.0)
+
+SPEC CHECKSUMS:
+  MHDummyLib: 20b18f6b8a8a9cf0292bf24e89be4ee8c3daf82a
+
+COCOAPODS: 0.36.3
