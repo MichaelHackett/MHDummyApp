@@ -2,9 +2,18 @@ PODS:
   - MHDummyLib (1.0.0)
 
 DEPENDENCIES:
-  - MHDummyLib (= 1.0.0)
+  - MHDummyLib (from `../MHPodspecs/MHDummyLib/1.0.0/MHDummyLib.podspec`)
+
+EXTERNAL SOURCES:
+  MHDummyLib:
+    :podspec: ../MHPodspecs/MHDummyLib/1.0.0/MHDummyLib.podspec
+
+CHECKOUT OPTIONS:
+  MHDummyLib:
+    :commit: 822462c235c015b0fed5e39679125f7005123816
+    :git: https://github.com/MichaelHackett/MHDummyLib.git
 
 SPEC CHECKSUMS:
-  MHDummyLib: 20b18f6b8a8a9cf0292bf24e89be4ee8c3daf82a
+  MHDummyLib: 03475080b61d774147e7e4cdd70428a803c199c7
 
 COCOAPODS: 0.36.3
